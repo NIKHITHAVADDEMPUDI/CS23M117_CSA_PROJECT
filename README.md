@@ -15,3 +15,8 @@ In the clone repository open CSA_PARSER_superscalar_simulator.ipynb file.
 Copy paste the path of dhrystone.s mips file path in the program near ending of parser to optimize mips file and generate a file with name resheduled_mips.s in the home or current directory. 
 
 Copy paste the paths of dhrystone.s and resheduled_mips.s paths in super scalar simulator to compare the number of clock cycles taken to execute and compare the performance 
+
+TEAM DETAILS:
+CS23M117 V.NIKHITHA
+CS23M107 J.GOPI KRISHNA
+CS23M110 NITESH YADAV
