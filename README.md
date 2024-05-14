@@ -18,5 +18,7 @@ Copy paste the paths of dhrystone.s and resheduled_mips.s paths in super scalar 
 
 TEAM DETAILS:
 CS23M117 V.NIKHITHA
+
 CS23M107 J.GOPI KRISHNA
+
 CS23M110 NITESH YADAV
